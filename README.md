@@ -257,3 +257,6 @@ prisma/schema.prisma         # generated CRUD models (available, not required by
 ## Attribution
 
 © OpenStreetMap contributors · Wikipedia (CC BY-SA) · Open-Meteo · Photon.
+
+## Developed By
+Vinay Mutekar
